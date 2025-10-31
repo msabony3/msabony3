@@ -1,6 +1,4 @@
-About Me
-
----
+**About Me**
 
 I am an analytically minded data professional with an MBA in Business Analytics from Binghamton University. My work thus far sits at the intersection of business analysis and technical problem solving. I specialize in transforming raw data into meaningful narratives that drive better decisions and measurable outcomes.
 
@@ -18,7 +16,7 @@ In my free time I love to watch movies, old and new, from all around the world a
 
 ---
 
-Education
+**Education**
 
 Master of Business Administration, Business Analytics (2024-2025)
 Binghamton University – School of Management
@@ -28,7 +26,7 @@ Binghamton University – School of Management
 
 ---
 
-Skills
+**Skills**
 
 Python, SQL, R, Power BI, Excel
 Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
