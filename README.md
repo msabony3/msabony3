@@ -18,18 +18,18 @@ In my free time I love to watch movies, old and new, from all around the world a
 
 **Education**
 
-Master of Business Administration, Business Analytics (2024-2025)
-Binghamton University – School of Management
+Master of Business Administration, Business Analytics (2024-2025) - Binghamton University, School of Management
 
-Bachelor of Science, Business Administration – Leadership & Consulting Track (2021-2024)
-Binghamton University – School of Management
+Bachelor of Science, Business Administration, Leadership & Consulting Track (2021-2024) - Binghamton University, School of Management
 
 ---
 
 **Skills**
 
-Python, SQL, R, Power BI, Excel
-Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-Data Visualization, Predictive Modeling, Statistical Analysis, Business Reporting
+Python, SQL, R, Power BI, Looker, Tableau, Excel
+
+Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Plotly, Statsmodels, SciPy
+
+Data Cleaning, Data Wrangling, Data Visualization, Predictive Modeling, Machine Learning, Statistical Analysis, Hypothesis Testing, Feature Engineering, Business Reporting, Process Optimization
 
 ---
