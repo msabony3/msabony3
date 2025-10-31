@@ -22,10 +22,10 @@ Whether it’s cleaning messy datasets, visualizing trends, or building models, 
 ---
 
 ### 📂 Projects I’m proud of  
-- 🧺 **Laundry Reservation App** – SQL-based system that lets students book laundry times efficiently  
-- 🧮 **Analytics Homework Series (MIS 525)** – Cumulative projects showcasing regression, decision trees, and visualizations  
-- 🏡 **Boston Housing Model (LA8)** – Logistic regression and decision tree analysis using Python visualization tools  
-- 🧾 **Payroll Data Analysis (A5)** – Pandas and NumPy project focused on compensation trends and outlier detection  
+- **Laundry Reservation App** – SQL-based system that lets students book laundry times efficiently  
+- **Analytics Homework Series (MIS 525)** – Cumulative projects showcasing regression, decision trees, and visualizations  
+- **Boston Housing Model (LA8)** – Logistic regression and decision tree analysis using Python visualization tools  
+- **Payroll Data Analysis (A5)** – Pandas and NumPy project focused on compensation trends and outlier detection  
 
 You can find full explanations and code walkthroughs for each in their repos.
 
