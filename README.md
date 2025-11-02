@@ -8,8 +8,7 @@
 
 **Education**
 
-Master of Business Administration, Business Analytics (2024-2025) - Binghamton University, School of Management
-
-Bachelor of Science, Business Administration, Leadership & Consulting Track (2021-2024) - Binghamton University, School of Management
+- Master of Business Administration, Business Analytics (2024-2025) - Binghamton University, School of Management
+- Bachelor of Science, Business Administration, Leadership & Consulting Track (2021-2024) - Binghamton University, School of Management
 
 ---
